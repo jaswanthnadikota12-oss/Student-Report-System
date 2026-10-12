@@ -165,3 +165,9 @@ Open the browser developer tools, go to **Application > Local Storage**, clear t
 ## Important note
 
 This project uses Local Storage because the assignment permits only HTML, CSS, and JavaScript. Public signup cannot create administrators, faculty accounts require administrator approval, and active sessions are revalidated against account status. However, Local Storage remains client-controlled and passwords are stored in the browser, so this is not production-grade security. A real deployment requiring secure authentication, cross-device access, or tamper-proof official records must use a backend and database.
+
+## Repository Maintenance
+
+This repository is maintained by Jaswanth Nadikota.
+The original project history is preserved to acknowledge
+the team's existing work.
